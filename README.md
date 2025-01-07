@@ -18,7 +18,7 @@ This is a clone of the popular **Hextris** game, designed to simulate the mechan
 - To explore and understand game mechanics like rotation, piece generation, collision detection, and user interaction.
 - To improve my skills in JavaScript, HTML5, and game development.
 
-You can play it here: [Your Game Link](#)
+You can play it here: [link](https://joamir-dev.github.io/Hextris/)
 
 ---
 
